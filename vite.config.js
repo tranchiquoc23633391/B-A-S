@@ -9,6 +9,7 @@ export default defineConfig(({ mode }) => {
   const isDev = mode === 'development'
   return {
     root: fileURLToPath(new URL('./', import.meta.url)),
+    base: '/',
     plugins: [
       vue(),
       ...(isDev ? [vueDevTools()] : []),

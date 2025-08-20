@@ -18,6 +18,16 @@ export default defineConfig(({ mode }) => {
         '@': fileURLToPath(new URL('./src', import.meta.url))
       },
     },
+    build: {
+      outDir: 'dist',
+      assetsDir: 'assets',
+      sourcemap: false,
+      rollupOptions: {
+        output: {
+          manualChunks: undefined
+        }
+      }
+    },
     server: {
       proxy: {
         "/api": {

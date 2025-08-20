@@ -16,20 +16,23 @@
 
 <style scoped>
 .video-background-wrapper {
-  position: relative;
-  width: 100%;
-  min-height: 600px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
   overflow: hidden;
   padding: 0;
   margin: 0;
+  z-index: -1;
 }
 
 .background-video {
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 600px;
+  width: 100vw;
+  height: 100vh;
   object-fit: cover;
   z-index: -1;
 }

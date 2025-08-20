@@ -13,10 +13,7 @@ onMounted(async () => {
     charDetail.value = await store.getIDcharacter(id);
 });
 
-// const imageSrc = computed(() => {
-//     if (!charDetail.value) return '';
-//     return charDetail.value.image || charDetail.value.photoUrl || '';
-// });
+
 </script>
 
 <template scoped>

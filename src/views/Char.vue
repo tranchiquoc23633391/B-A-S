@@ -1,5 +1,5 @@
 <script setup>
-import { onMounted, ref } from 'vue';
+import { onMounted, ref, computed } from 'vue';
 import { useBlueArchiveStore } from '@/store/api';
 import { storeToRefs } from 'pinia';
 import { useRouter } from 'vue-router';
@@ -50,7 +50,7 @@ const goToDetail = (id) => {
       <div v-for="character in CharacterBlueArchivePage" :key="character._id" class="text-center"
         style="cursor:pointer;">
         <div class="char-img">
-          <img :src="character.photoUrl" :alt="character.name" @click="goToDetail(character._id)" />
+          <img :src="character.photoUrl && character.photoUrl.replace(/\/(\d+)px-/i, '/400px-')" :alt="character.name" @click="goToDetail(character._id)" />
         </div>
         <div class="charNameTT " @click="goToDetail(character._id)">{{ character.name }}</div>
       </div>
@@ -69,7 +69,9 @@ const goToDetail = (id) => {
   background: url("../assets/img/BG_AronaRoom.webp");
   background-position: center;
   background-size: cover;
-  min-height: 100vh;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
 }
 
 .box-char {
@@ -80,7 +82,7 @@ const goToDetail = (id) => {
 
 .char-img img {
   transition: transform 0.3s ease;
-  width: 180px;
+  width: 170px;
 }
 
 .char-img img:hover {

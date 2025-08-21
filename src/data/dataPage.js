@@ -10,8 +10,7 @@ export const charDataPage = [
     "image": "https://images.dotgg.gg/bluearchive/characters/portrait/10045.webp",
     "imageSchool": "https://static.miraheze.org/bluearchivewiki/thumb/9/91/Abydos.png/50px-Abydos.png",
     "damageType": "Explosive",
-    "TrinitySchool": "https://static.wikitide.net/bluearchivewiki/c/c0/BG_TrinityCampusPlaza.jpg"
-
+    
   },
   {
     "_id": "6341063807843834fd29f0aa",
@@ -19,7 +18,7 @@ export const charDataPage = [
     "school": "Gehenna",
     "birthday": "November 8",
     "photoUrl": "https://static.miraheze.org/bluearchivewiki/thumb/2/26/Iori.png/266px-Iori.png",
-    "image": "https://www.api-blue-archive.ninja/gehenna/shiromi-iori/4.jpg",
+    "image": "https://static.wikitide.net/bluearchivewiki/b/bd/Iori_00.png",
     "imageSchool": "https://static.miraheze.org/bluearchivewiki/thumb/b/bd/Gehenna.png/50px-Gehenna.png",
     "damageType": "Penetration"
   },
@@ -29,7 +28,7 @@ export const charDataPage = [
     "school": "Gehenna",
     "birthday": "November 8",
     "photoUrl": "https://static.miraheze.org/bluearchivewiki/thumb/5/53/Iori_%28Swimsuit%29.png/266px-Iori_%28Swimsuit%29.png",
-    "image": "",
+    "image": "https://static.wikitide.net/bluearchivewiki/3/3f/Iori_%28Swimsuit%29_diorama_00.png",
     "imageSchool": "https://static.miraheze.org/bluearchivewiki/thumb/b/bd/Gehenna.png/50px-Gehenna.png",
     "damageType": "Explosive"
   },
@@ -39,7 +38,7 @@ export const charDataPage = [
     "school": "Gehenna",
     "birthday": "November 16",
     "photoUrl": "https://static.miraheze.org/bluearchivewiki/thumb/b/bf/Iroha.png/266px-Iroha.png",
-    "image": "",
+    "image": "https://static.wikitide.net/bluearchivewiki/0/06/Iroha_00.png",
     "imageSchool": "https://static.miraheze.org/bluearchivewiki/thumb/b/bd/Gehenna.png/50px-Gehenna.png",
     "damageType": "Mystic"
   },
@@ -49,7 +48,7 @@ export const charDataPage = [
     "school": "Gehenna",
     "birthday": "May 11",
     "photoUrl": "https://static.miraheze.org/bluearchivewiki/thumb/1/10/Izumi.png/266px-Izumi.png",
-    "image": "",
+    "image": "https://static.wikitide.net/bluearchivewiki/7/7c/Izumi_00.png",
     "imageSchool": "https://static.miraheze.org/bluearchivewiki/thumb/b/bd/Gehenna.png/50px-Gehenna.png",
     "damageType": "Explosive"
   },
@@ -59,7 +58,7 @@ export const charDataPage = [
     "school": "Gehenna",
     "birthday": "May 11",
     "photoUrl": "https://static.miraheze.org/bluearchivewiki/thumb/b/b0/Izumi_%28Swimsuit%29.png/266px-Izumi_%28Swimsuit%29.png",
-    "image": "",
+    "image": "https://static.wikitide.net/bluearchivewiki/f/f8/Izumi_%28Swimsuit%29_diorama_00.png",
     "imageSchool": "https://static.miraheze.org/bluearchivewiki/thumb/b/bd/Gehenna.png/50px-Gehenna.png",
     "damageType": "Explosive"
   },
@@ -69,7 +68,7 @@ export const charDataPage = [
     "school": "Hyakkiyako",
     "birthday": "December 16",
     "photoUrl": "https://static.miraheze.org/bluearchivewiki/thumb/5/54/Izuna.png/266px-Izuna.png",
-    "image": "",
+    "image": "https://static.wikitide.net/bluearchivewiki/8/89/Izuna_00.png",
     "imageSchool": "https://static.miraheze.org/bluearchivewiki/thumb/3/36/Hyakkiyako.png/50px-Hyakkiyako.png",
     "damageType": "Mystic"
   },
@@ -79,7 +78,7 @@ export const charDataPage = [
     "school": "Hyakkiyako",
     "birthday": "December 16",
     "photoUrl": "https://static.miraheze.org/bluearchivewiki/thumb/3/37/Izuna_%28Swimsuit%29.png/266px-Izuna_%28Swimsuit%29.png",
-    "image": "",
+    "image": "https://static.wikitide.net/bluearchivewiki/4/4a/Izuna_%28Swimsuit%29_diorama_00.png",
     "imageSchool": "https://static.miraheze.org/bluearchivewiki/thumb/3/36/Hyakkiyako.png/50px-Hyakkiyako.png",
     "damageType": "Mystic"
   },
@@ -89,7 +88,7 @@ export const charDataPage = [
     "school": "Gehenna",
     "birthday": "December 27",
     "photoUrl": "https://static.miraheze.org/bluearchivewiki/thumb/3/3c/Junko.png/266px-Junko.png",
-    "image": "",
+    "image": "https://static.wikitide.net/bluearchivewiki/d/d1/Junko_00.png",
     "imageSchool": "https://static.miraheze.org/bluearchivewiki/thumb/b/bd/Gehenna.png/50px-Gehenna.png",
     "damageType": "Penetration"
   },
@@ -99,7 +98,7 @@ export const charDataPage = [
     "school": "Gehenna",
     "birthday": "October 20",
     "photoUrl": "https://static.miraheze.org/bluearchivewiki/thumb/3/37/Juri.png/266px-Juri.png",
-    "image": "",
+    "image": "https://static.wikitide.net/bluearchivewiki/5/5e/Juri_00.png",
     "imageSchool": "https://static.miraheze.org/bluearchivewiki/thumb/b/bd/Gehenna.png/50px-Gehenna.png",
     "damageType": "Explosive"
   },
@@ -109,7 +108,7 @@ export const charDataPage = [
     "school": "Hyakkiyako",
     "birthday": "July 9",
     "photoUrl": "https://static.miraheze.org/bluearchivewiki/thumb/f/f0/Kaede.png/266px-Kaede.png",
-    "image": "",
+    "image": "https://static.wikitide.net/bluearchivewiki/thumb/9/99/Kaede_00.png/800px-Kaede_00.png",
     "imageSchool": "https://static.miraheze.org/bluearchivewiki/thumb/3/36/Hyakkiyako.png/50px-Hyakkiyako.png",
     "damageType": "Explosive"
   },
@@ -119,7 +118,7 @@ export const charDataPage = [
     "school": "Millennium",
     "birthday": "February 2",
     "photoUrl": "https://static.miraheze.org/bluearchivewiki/thumb/5/50/Karin.png/266px-Karin.png",
-    "image": "",
+    "image": "https://static.wikitide.net/bluearchivewiki/f/fa/Karin_00.png",
     "imageSchool": "https://static.miraheze.org/bluearchivewiki/thumb/2/2a/Millennium.png/50px-Millennium.png",
     "damageType": "Penetration"
   },
@@ -129,7 +128,7 @@ export const charDataPage = [
     "school": "Millennium",
     "birthday": "February 2",
     "photoUrl": "https://static.miraheze.org/bluearchivewiki/thumb/b/bd/Karin_%28Bunny_Girl%29.png/266px-Karin_%28Bunny_Girl%29.png",
-    "image": "",
+    "image": "https://static.wikitide.net/bluearchivewiki/7/7f/Karin_%28Bunny_Girl%29_00.png",
     "imageSchool": "https://static.miraheze.org/bluearchivewiki/thumb/2/2a/Millennium.png/50px-Millennium.png",
     "damageType": "Mystic"
   },
@@ -139,7 +138,7 @@ export const charDataPage = [
     "school": "Gehenna",
     "birthday": "March 17",
     "photoUrl": "https://static.miraheze.org/bluearchivewiki/thumb/a/a5/Kayoko.png/266px-Kayoko.png",
-    "image": "",
+    "image": "https://static.wikitide.net/bluearchivewiki/e/e5/Kayoko_00.png",
     "imageSchool": "https://static.miraheze.org/bluearchivewiki/thumb/b/bd/Gehenna.png/50px-Gehenna.png",
     "damageType": "Explosive"
   },
@@ -149,10 +148,9 @@ export const charDataPage = [
     "school": "Trinity",
     "birthday": "August 5",
     "photoUrl": "https://static.miraheze.org/bluearchivewiki/thumb/b/b3/Kazusa.png/266px-Kazusa.png",
-    "image": "",
+    "image": "https://static.wikitide.net/bluearchivewiki/f/fe/Kazusa_00.png",
     "imageSchool": "https://static.miraheze.org/bluearchivewiki/thumb/9/9c/Trinity.png/50px-Trinity.png",
     "damageType": "Penetration",
-    "TrinitySchool": "https://static.wikia.nocookie.net/blue-archive/images/1/19/Trinity_Intro.png/revision/latest/scale-to-width-down/1000?cb=20210207075406"
   },
   {
     "_id": "6341066907843834fd29f0e2",
@@ -160,7 +158,7 @@ export const charDataPage = [
     "school": "Valkyrie",
     "birthday": "October 22",
     "photoUrl": "https://static.miraheze.org/bluearchivewiki/thumb/8/85/Kirino.png/266px-Kirino.png",
-    "image": "",
+    "image": "https://static.wikitide.net/bluearchivewiki/5/51/Kirino_00.png",
     "imageSchool": "https://static.miraheze.org/bluearchivewiki/thumb/d/d5/Valkyrie.png/50px-Valkyrie.png",
     "damageType": "Explosive"
   },
@@ -170,7 +168,7 @@ export const charDataPage = [
     "school": "Trinity",
     "birthday": "April 16",
     "photoUrl": "https://static.miraheze.org/bluearchivewiki/thumb/c/c3/Koharu.png/266px-Koharu.png",
-    "image": "",
+    "image": "https://static.wikitide.net/bluearchivewiki/e/e5/Koharu_00.png",
     "imageSchool": "https://static.miraheze.org/bluearchivewiki/thumb/9/9c/Trinity.png/50px-Trinity.png",
     "damageType": "Explosive"
   },
@@ -180,7 +178,7 @@ export const charDataPage = [
     "school": "Shanhaijing",
     "birthday": "June 1",
     "photoUrl": "https://static.miraheze.org/bluearchivewiki/thumb/8/83/Kokona.png/266px-Kokona.png",
-    "image": "",
+    "image": "https://static.wikitide.net/bluearchivewiki/9/99/Kokona_00.png",
     "imageSchool": "https://static.miraheze.org/bluearchivewiki/thumb/b/be/Shanhaijing.png/50px-Shanhaijing.png",
     "damageType": "Penetration"
   },
@@ -190,7 +188,7 @@ export const charDataPage = [
     "school": "Millennium",
     "birthday": "January 5",
     "photoUrl": "https://static.miraheze.org/bluearchivewiki/thumb/9/94/Kotama.png/266px-Kotama.png",
-    "image": "",
+    "image": "https://static.wikitide.net/bluearchivewiki/9/91/Kotama_00.png",
     "imageSchool": "https://static.miraheze.org/bluearchivewiki/thumb/2/2a/Millennium.png/50px-Millennium.png",
     "damageType": "Explosive"
   },
@@ -200,7 +198,7 @@ export const charDataPage = [
     "school": "Millennium",
     "birthday": "December 31",
     "photoUrl": "https://static.miraheze.org/bluearchivewiki/thumb/a/ab/Kotori.png/266px-Kotori.png",
-    "image": "",
+    "image": "https://static.wikitide.net/bluearchivewiki/a/a6/Kotori_00.png",
     "imageSchool": "https://static.miraheze.org/bluearchivewiki/thumb/2/2a/Millennium.png/50px-Millennium.png",
     "damageType": "Penetration"
   }
